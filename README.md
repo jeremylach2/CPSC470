@@ -3,7 +3,7 @@
 ## Contents
 
 ### /Images
-In this folder is the images used for the paper
+In this folder are the images used for the paper
 
 ### /Proposal&FinalPaper
 In this folder is my research proposal and final paper
